@@ -1,7 +1,3 @@
-
-### Notification Test App README
-
-```markdown
 # Notification Test App
 
 ## Overview
@@ -54,5 +50,6 @@ You can modify the test application code (`index.js`) to test other priority lev
 
 Run the following command to start the test application:
 
-```bash
+```
 npm start
+```
